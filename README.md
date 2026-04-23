@@ -82,3 +82,10 @@ This dashboard helps decision-makers to:
 - Support tourism planning and strategy  
 
 ---
+
+## Notebook
+
+The Python analysis notebook used for data preparation and exploratory analysis is available here:  
+https://colab.research.google.com/your-link-here
+
+---
