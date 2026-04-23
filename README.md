@@ -86,6 +86,6 @@ This dashboard helps decision-makers to:
 ## Notebook
 
 The Python analysis notebook used for data preparation and exploratory analysis is available here:  
-https://colab.research.google.com/your-link-here
+https://colab.research.google.com/drive/1feOZ-MG1O80yaOBqeEE-OCeVPHz8dyCr?usp=sharing
 
 ---
