@@ -82,8 +82,3 @@ This dashboard helps decision-makers to:
 - Support tourism planning and strategy  
 
 ---
-
-## Future Improvements
-- Add forecasting model using Prophet  
-- Include monthly-level data  
-- Enhance drill-down analysis  
