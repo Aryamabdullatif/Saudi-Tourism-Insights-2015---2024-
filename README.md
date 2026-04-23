@@ -13,8 +13,7 @@ Built an end-to-end data analytics project to analyze tourism trends in Saudi Ar
 
 ## Data Source
 Tourism dataset covering Saudi regions (2015–2024)  
-Source: Saudi Open Data / General Authority for Statistics
-
+Source: https://www.kaggle.com/datasets/toobaik/saudi-arabia-tourism-dataset-20152024?select=tourism_data.csv
 ---
 
 ## Tech Stack
