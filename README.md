@@ -1,10 +1,7 @@
 # Saudi Tourism Insights Dashboard (2015–2024)
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
-
-## Interactive Demo
-![Demo](demo.gif)
+![Dashboard](Dashboard.jpg)
 
 ## Overview
 Built an end-to-end data analytics project to analyze tourism trends in Saudi Arabia, focusing on regional performance, spending behavior, and the impact of COVID-19.
